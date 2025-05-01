@@ -5,21 +5,16 @@
 ## ✨ Features
 
 - 🗓️ **Personalized Itineraries** – Get custom travel schedules based on your interests and budget
-- 🚦 **Live Traffic & Crowd Insights** – Know the best times to visit with real-time data
-- 🎉 **Local Event Alerts** – Be notified about local festivals, events, and activities
 - 💰 **Smart Budget Planner** – Estimate your total trip cost (food, travel, stay)
-- 🛟 **Emergency & Safety Assistant** – Locate nearest hospitals and police stations
 - 🌐 **Offline Mode** – Access saved trips and maps without the internet
 - 🧳 **AI-Powered Packing Suggestions** – Smart packing lists based on weather and activities
-- 🧭 **Multi-Destination Planning** – Plan trips across multiple cities or countries
 
 ## 💻 Tech Stack
 
 - **Frontend**: React.js (Vite), Tailwind CSS
 - **Backend**: Firebase
 - **Routing**: React Router
-- **APIs Used**: Google Maps API, Weather API, Travel APIs
-- **Machine Learning**: Python (scikit-learn, TensorFlow)
+- **APIs Used**: Google Maps API, Generative AI API
 
 ## 🚀 Getting Started
 
@@ -47,11 +42,8 @@ trip-planner/
 
 ##🧠 Future Enhancements
 Voice-assisted travel search
-
 Social sharing of trip plans
-
 Hotel and flight booking integration
-
 Travel journal and review system
 
 ##📄 License
